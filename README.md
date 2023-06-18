@@ -1,4 +1,3 @@
 DIO-lab
-Projeto responsável por criar um Wireframe de média fidelidade usando o Figma.
- Eu escolhi desenvolver um wireframe para um portifolio aonde serão exibidas tais informações como contato, projetos e sobre mim.
-  Como foi proposto fazer um wireframe de media fidelidade, eu optei por utilizar somente as cores cinza e branco para o layout e grids, e o preto para textos Lorem Ipsum.
+Mockup de uma pagina de Login/Cadastro de usuario de um sistema de delivery. Escolhi fazer esse mockup pois estou ja estou desenvolvendo esse projeto, e ja tinha algumas paginas prontas.
+A ideia é que eu possa recriar algumas paginas agora pensando melhor sobre os conceitos de UI/UX e posteriormente desenvolve-las.
